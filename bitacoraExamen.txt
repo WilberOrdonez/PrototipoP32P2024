@@ -1,0 +1,35 @@
+commit e49224e2475804f24aa76c9bee2ce9d8e2150c5c
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Mon Apr 22 11:29:20 2024 -0600
+
+    Prueba de seguridad
+
+commit 513abe02c3d5f403875bf440b1ecdd1e65124984
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Mon Apr 22 11:27:44 2024 -0600
+
+    prueba Examen
+
+commit 71b70c622c6c4bee8a60a2d121830984e1e6c8f0
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Mon Apr 22 10:25:08 2024 -0600
+
+    Creacion ClientesDAO
+
+commit 3104d1e74dcdd5649093150265e0c7234494bd9f
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Mon Apr 22 10:09:28 2024 -0600
+
+    Creacion controlador Clientes
+
+commit 4da3afd7b88ce0fa22c5d71ce4c2fcb833b2f6cc
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Mon Apr 22 09:24:10 2024 -0600
+
+    Creacion paquetes MVC
+
+commit 326148ff535d93c33cf771520429895a0398c1c9
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Mon Apr 22 09:20:25 2024 -0600
+
+    Creacion librerías MVC

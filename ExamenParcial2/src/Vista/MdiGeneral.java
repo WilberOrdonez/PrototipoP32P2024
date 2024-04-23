@@ -116,7 +116,7 @@ public class MdiGeneral extends javax.swing.JFrame {
     }//GEN-LAST:event_menuAbrir_sesionActionPerformed
 
     private void Menu_MantClientesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Menu_MantClientesActionPerformed
-        MantenimienoClientes ventana = new MantenimientoClientes();
+        MantenimientoClientes ventana = new MantenimientoClientes();
         jDesktopPane1.add(ventana);
         Dimension desktopSize = jDesktopPane1.getSize();
         Dimension FrameSize = ventana.getSize();
